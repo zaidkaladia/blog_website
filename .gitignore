@@ -1,0 +1,18 @@
+# Firebase configuration
+firebase_config.json
+serviceAccountKey.json
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Flask session key
+flask_session/
+
+# OS generated files
+.DS_Store
+Thumbs.db
